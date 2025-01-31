@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TempCalc Jan30": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

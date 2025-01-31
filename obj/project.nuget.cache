@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KHT4o40XhQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryans\\source\\repos\\TempCalc Jan30\\TempCalc Jan30\\TempCalc Jan30.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryans\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
